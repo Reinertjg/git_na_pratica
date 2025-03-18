@@ -1,1 +1,1 @@
-Atividade prática de Git
+Atividade prática de Git.
